@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/scheduling",
+    "name": "snowsoft/oascheduling",
     "description": "Task scheduling extension for open-admin",
     "type": "library",
     "keywords": ["open-admin", "task", "Scheduling"],
-    "homepage": "https://github.com/open-admin-org/scheduling",
+    "homepage": "https://github.com/snowsoft/oascheduling",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-org/open-admin": "~1.0"
+        "snowsoft/open-admin": "~v0.01"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
